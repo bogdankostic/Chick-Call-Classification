@@ -11,7 +11,7 @@ Build a classifier using LSTM that does the following:
   - [x] Restructure data
   - [x] Split data in train and test set
   - [x] Create white noise files
-  - [ ] Create audio files containing sequences of soft and distress calls interjected by white noise, keeping information about where a call is
+  - [x] Create audio files containing sequences of soft and distress calls interjected by white noise, keeping information about where a call is
   - [ ] Split audio files in chunks of 100ms, keeping information about in which chunk a call ends
   - [ ] Extract features for each chunk
   - [ ] Build the architecture of the LSTM model
